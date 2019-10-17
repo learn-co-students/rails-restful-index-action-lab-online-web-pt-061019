@@ -1,6 +1,6 @@
-class StudentController < ApplicationController
-
-get '/index' do
+class StudentsController < ApplicationController
   
+  def students
+  end
 end
 
